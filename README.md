@@ -57,11 +57,11 @@ This dashboard helps users to:
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
+> *(https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.png)*
 
 Example:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.png)
 
 ---
 
