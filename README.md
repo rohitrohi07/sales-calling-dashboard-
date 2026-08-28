@@ -55,11 +55,11 @@ This dashboard helps users to:
 - Identify top-performing cities
 - Compare responses across different sectors
 - Make data-driven business decisions
-
+---
 ## 📷 Dashboard Preview
 
 ![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
-
+---
 ## 📈 DAX Measures Used
 
 Some of the DAX measures created in this project include:
