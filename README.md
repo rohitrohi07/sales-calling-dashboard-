@@ -58,7 +58,7 @@ sales-calling-dashboard/
 
 ## 📷 Dashboard Preview
 ---
-![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
+[Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
 
 ## 📈 DAX Measures Used
 
