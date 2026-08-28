@@ -8,6 +8,9 @@ The **Leads Calling Dashboard** is an interactive Power BI dashboard designed to
 This dashboard transforms raw calling data into meaningful insights through interactive visualizations and KPI metrics.
 
 ---
+## 🎯 Project Objective
+
+The objective of this project is to monitor lead calling performance and analyze customer interest and conversion rates across different cities and sectors.
 
 ## 🚀 Key Features
 
