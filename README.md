@@ -55,7 +55,8 @@ sales-calling-dashboard/
 ├── Dataset/
 │   └── sales_calling_data.xlsx
 └── README.md
----
+```
+
 ## 📷 Dashboard Preview
 
 ![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
@@ -111,6 +112,3 @@ Businesses receive hundreds or thousands of leads every day. Instead of reviewin
 ---
 
 ⭐ If you found this project helpful, feel free to star this repository.
-
-screenshot / demo  ![Dashboard Preview]
-example: https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.png
