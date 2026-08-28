@@ -55,16 +55,14 @@ The Power BI dashboard file is included in this repository:
 ```text
 sales-calling-dashboard/
 │
-├── Leads Calling Dashboard.pbix
+├── master table.pbix
 ├── Leads Calling Dashboard.png
-├── Dataset/
-│   └── sales_calling_data.xlsx
+├── sales_calling_dataset.xlsx
 └── README.md
 ```
-
 ## 📷 Dashboard Preview
 
-![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
+![Leads Calling Dashboard](./Leads%20Calling%20Dashboard.png)
 
 ## 📈 DAX Measures Used
 
@@ -75,7 +73,7 @@ Some of the DAX measures created in this project include:
 - Total Not Interested
 - Conversion Rate
 
-Example:
+
 
 ```DAX
 Conversion Rate =
