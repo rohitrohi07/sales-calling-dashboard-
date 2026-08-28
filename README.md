@@ -53,17 +53,9 @@ This dashboard helps users to:
 - Compare responses across different sectors
 - Make data-driven business decisions
 
----
-
 ## 📷 Dashboard Preview
 
-> *(https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.png)*
-
-Example:
-
-![Dashboard Preview](https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.png)
-
----
+![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
 
 ## 📈 DAX Measures Used
 
