@@ -35,6 +35,11 @@ The objective of this project is to monitor lead calling performance and analyze
 - Microsoft Excel
 
 ---
+## 📊 Power BI Dashboard
+
+The Power BI dashboard file is included in this repository:
+
+**[Download Power BI Dashboard](./Leads%20Calling%20Dashboard.pbix)**
 
 ## 📊 KPIs Used
 
