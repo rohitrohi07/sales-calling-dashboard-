@@ -45,21 +45,21 @@ The objective of this project is to monitor lead calling performance and analyze
 
 ---
 
-## 📂 Dashboard Insights
+## 📁 Project Structure
 
-This dashboard helps users to:
+```text
+sales-calling-dashboard/
+│
+├── Leads Calling Dashboard.pbix
+├── Leads Calling Dashboard.png
+├── Dataset/
+│   └── sales_calling_data.xlsx
+└── README.md
 
-- Monitor calling team performance
-- Track customer responses
-- Analyze conversion rates
-- Identify top-performing cities
-- Compare responses across different sectors
-- Make data-driven business decisions
----
 ## 📷 Dashboard Preview
-
-![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
 ---
+![Sales Calling Dashboard](Leads%20Calling%20Dashboard.png)
+
 ## 📈 DAX Measures Used
 
 Some of the DAX measures created in this project include:
@@ -88,16 +88,15 @@ Businesses receive hundreds or thousands of leads every day. Instead of reviewin
 
 ---
 
-## 📚 Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- KPI Dashboard Design
-- DAX Calculations
+- Data Cleaning & Transformation
 - Power Query
-- Business Intelligence
-- Dashboard Formatting
+- Data Modeling
+- DAX
+- KPI Development
+- Data Visualization
+- Dashboard Design
 
 ---
 
