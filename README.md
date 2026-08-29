@@ -39,8 +39,7 @@ The objective of this project is to monitor lead calling performance and analyze
 
 The Power BI dashboard file is included in this repository:
 
-[**Download Power BI Dashboard**](https://github.com/rohitrohi07/sales-calling-dashboard-/blob/main/Leads%20Calling%20Dashboard.pbix)
-
+[**Open Power BI Dashboard (.pbix)**](./master%20table.pbix)
 ## 📊 KPIs Used
 
 - Total Leads Called
@@ -53,12 +52,14 @@ The Power BI dashboard file is included in this repository:
 ## 📁 Project Structure
 
 ```text
-sales-calling-dashboard/
+sales-calling-dashboard-/
 │
-├── master table.pbix
 ├── Leads Calling Dashboard.png
+├── master table.pbix
 ├── sales_calling_dataset.xlsx
 └── README.md
+```
+
 ## 📷 Dashboard Preview
 
 ![Leads Calling Dashboard](./Leads%20Calling%20Dashboard.png)
