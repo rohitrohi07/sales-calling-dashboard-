@@ -1,79 +1,52 @@
-
-# 📊 Leads Calling Dashboard - Power BI
+# 📊 Sales Calling Performance Dashboard
 
 ## 📌 Project Overview
 
-The **Leads Calling Dashboard** is an interactive Power BI dashboard designed to monitor and analyze the performance of a leads calling process. It provides a clear overview of customer responses, conversion metrics, city-wise analysis, and sector-wise performance, helping businesses make informed decisions.
+This project is a **Sales Calling Performance Dashboard** developed using Microsoft Power BI.
 
-This dashboard transforms raw calling data into meaningful insights through interactive visualizations and KPI metrics.
+The dashboard analyzes lead calling activities and provides insights into customer interest, conversion performance, and calling performance across different cities and sectors.
 
----
 ## 🎯 Project Objective
 
 The objective of this project is to monitor lead calling performance and analyze customer interest and conversion rates across different cities and sectors.
-
-## 🚀 Key Features
-
-- 📞 Total Leads Called
-- ✅ Total Interested Leads
-- ❌ Total Not Interested Leads
-- 📈 Conversion Rate KPI
-- 🍩 Response Breakdown (Donut Chart)
-- 📅 Calling Date Trend Analysis
-- 🏙️ City-wise Response Analysis
-- 🏢 Sector-wise Performance Analysis
-- 🎛️ Interactive Filters (Calling Date, City, Category)
-
----
 
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
+- DAX
 - Data Modeling
-- Microsoft Excel
+- Excel
+- Data Visualization
 
----
+## 📊 Key Performance Indicators (KPIs)
+
+- Total Leads Called
+- Total Interested
+- Total Not Interested
+- Conversion Rate
+
+## 📈 Dashboard Preview
+
+![Sales Calling Dashboard](./Leads%20Calling%20Dashboard.png)
+
 ## 📊 Power BI Dashboard
 
 The Power BI dashboard file is included in this repository:
 
 [**Open Power BI Dashboard (.pbix)**](./master%20table.pbix)
-## 📊 KPIs Used
 
-- Total Leads Called
-- Total Interested
-- Total Not Interested
-- Conversion Rate
+## 🔍 Key Findings
 
----
+- The dashboard provides a clear overview of overall lead calling performance.
+- Customer interest and conversion rate help evaluate the effectiveness of calling activities.
+- Calling performance varies across different cities and sectors.
+- The analysis helps identify areas with stronger customer response.
+- KPI-based analysis makes it easier to monitor performance and identify improvement areas.
 
-## 📁 Project Structure
+## 🧮 DAX Measure
 
-```text
-sales-calling-dashboard-/
-│
-├── Leads Calling Dashboard.png
-├── master table.pbix
-├── sales_calling_dataset.xlsx
-└── README.md
-```
-
-## 📷 Dashboard Preview
-
-![Leads Calling Dashboard](./Leads%20Calling%20Dashboard.png)
-
-## 📈 DAX Measures Used
-
-Some of the DAX measures created in this project include:
-
-- Total Leads Called
-- Total Interested
-- Total Not Interested
-- Conversion Rate
-
-
+### Conversion Rate
 
 ```DAX
 Conversion Rate =
@@ -83,14 +56,6 @@ DIVIDE(
     0
 )
 ```
-
----
-
-## 🎯 Business Use Case
-
-Businesses receive hundreds or thousands of leads every day. Instead of reviewing raw data manually, this dashboard provides a single-page interactive report that enables managers to monitor calling performance, customer responses, and conversion rates efficiently.
-
----
 
 ## 🛠️ Skills Demonstrated
 
@@ -102,16 +67,25 @@ Businesses receive hundreds or thousands of leads every day. Instead of reviewin
 - Data Visualization
 - Dashboard Design
 
----
+## 📁 Project Structure
 
-## 👨‍💻 Author
+```text
+sales-calling-dashboard-/
+│
+├── master table.pbix
+├── Leads Calling Dashboard.png
+├── sales_calling_dataset.xlsx
+└── README.md
+```
 
-**Rohit Shah**
+## 📌 Conclusion
 
-📧 Email: rohitlal2334@gmail.com
+This project demonstrates practical skills in data cleaning, transformation, data modeling, DAX, KPI development, and Power BI dashboard creation.
 
-🔗 LinkedIn: www.linkedin.com/in/rohit-lal1827
+The dashboard provides a clear view of sales calling performance and helps identify customer response and conversion patterns.
 
----
+## 👤 Author
 
-⭐ If you found this project helpful, feel free to star this repository.
+**Rohit**
+
+Aspiring Data Analyst
